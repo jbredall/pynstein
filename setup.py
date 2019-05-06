@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='pynstein',
-      version='0.1.0',
+      version='0.2.0',
       description='Basic functions for doing Special Relativity in Python',
       url='https://github.com/jbredall/pynstein',
       author='John Bredall',
@@ -13,7 +13,7 @@ setup(name='pynstein',
       ],
       license='MIT',
       zip_safe=False,
-      classifiers=('Development Status :: 1 - Planning',
+      classifiers=('Development Status :: 2 - Pre-Alpha',
                    'Intended Audience :: Science/Research',
                    'License :: OSI Approved :: MIT License',
                    'Natural Language :: English',
